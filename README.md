@@ -5,4 +5,10 @@ Overall the code does what was initial intended, on the Description you will be 
 </p>
 
 <h2> Description: </h2>
-<p align="justify"> In </p>
+<p align="justify"> In this classwork, the objective was to explore Clustering and Classification methods by using Orange and by using Python. A dataset for both cases was provided. 
+
+
+
+
+
+</p>
